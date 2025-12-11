@@ -1,4 +1,4 @@
-# airdrop-bots
+**Airdrop-bots**
 
 This is a simple bot I wrote using just a few lines of Python code with pyautogui, time, and random.
 
