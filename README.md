@@ -1,2 +1,2 @@
 # airdrop-bots
-# this a simple bot i write just a few python code use pyautogui and time
+This a simple bot i write just a few python code use pyautogui, time, and random.
