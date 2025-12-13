@@ -2,10 +2,11 @@
 
 This is a simple bot I wrote using just a few lines of Python code with pyautogui, time, and random.
 
-But you need to install these following Library first :
+But you need to install this Library first :
 1. PyAutoGUI
-  `pip install pyautogui`
-
+  ```bash
+pip install pyautogui
+```
 
 ---
 If you’re enjoying it, maybe you wouldn’t mind buying me a coffee 😹.
