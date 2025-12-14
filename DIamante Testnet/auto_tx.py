@@ -69,4 +69,5 @@ for i in range(count):
     time.sleep(2)
 
     pyautogui.click(842, 693)  # maybe
-    time.sleep(2)
+    time.sleep(60)
+
